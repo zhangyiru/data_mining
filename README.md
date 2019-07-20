@@ -6,5 +6,5 @@
 2.1 [特征提取](https://github.com/zhangyiru/data_mining)    
 2.2 [特征选择](https://github.com/zhangyiru/data_mining/tree/master/feature_selection)  
 3、[模型构建](https://github.com/zhangyiru/data_mining/tree/master/model_code)  
-4、[模型调参](https://github.com/zhangyiru/data_mining/tree/master/model_tune_parameter)
-4、评价指标  
+4、[模型调参](https://github.com/zhangyiru/data_mining/tree/master/model_tune_parameter)  
+5、评价指标  
